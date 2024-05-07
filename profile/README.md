@@ -1,6 +1,8 @@
 ## About
 
-Hi there 👋, Welcome to the Unofficial Container Image Library for Docker Swarm.
+Hi there 👋
+
+Welcome to the Unofficial Container Image Library for Docker Swarm.
 A collection of unofficial container image library designed specifically for using inside a Docker Swarm environment
 
 
