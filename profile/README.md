@@ -6,6 +6,16 @@ Welcome to the Unofficial Container Image Library for Docker Swarm.
 A collection of unofficial container image library designed specifically for using inside a Docker Swarm environment
 
 
+> [!IMPORTANT]
+> This is not associated with Docker nor Kubernetes or any of the tools suggested here.
+
+> [!WARNING]
+> Use any of the projects available here as your base line configuration/deployment and extend to you needs.  
+> If you find that `Kubernetes` is a little bit overkill for your project, I hope you find this project helpful.
+
+<br><br>
+![Dilbert cartoon take on Kubernetes](https://github.com/YouMightNotNeedKubernetes/.github/assets/4363857/59cafcea-ab25-4107-822e-01c574963a3d)
+> Dilbert cartoon from https://twitter.com/danieldibswe/status/1169485819993841664
 
 <!--
 
